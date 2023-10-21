@@ -2,13 +2,13 @@
     "name": "test TestExtension",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "TestExtension": "github:jmichalenko/testextensionmakecode#master"
+        "core": "*"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "custom.ts"
     ],
     "testFiles": [
         "test.ts"
